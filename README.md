@@ -10,4 +10,6 @@
 - 📊 数据分析：内容爬取、数据处理与自动化分析
 - 💰 区块链：加密货币套利策略与工具开发
 
+_该个人简介由GitHub MCP进行总结_
+
 <img src="https://github-readme-stats.vercel.app/api?username=NAXG&show_icons=true&theme=dracula" />
