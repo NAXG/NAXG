@@ -9,8 +9,6 @@
 - 🤖 AIGC应用：AI内容生成工具开发与应用
 - 📊 数据分析：内容爬取、数据处理与自动化分析
 
-- 提示词优化工具
-https://prompt-optimizer-six.vercel.app
 
 _该个人简介由GitHub MCP进行总结_
 
