@@ -11,6 +11,3 @@
 
 
 _该个人简介由GitHub MCP进行总结_
-
-<img src="https://github-readme-stats.vercel.app/api?username=NAXG&show_icons=true&theme=dracula" />
-
