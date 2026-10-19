@@ -23,7 +23,7 @@
 ## 自研平台（私有）
 
 - **Argus / Argus-Scan / Argus-UI**：分布式资产扫描平台，插件化扫描链，多节点集群
-- **ARTEX**：AI 自主渗透测试系统
+- **SPArecon**：快速筛选高价值目标
 - **RedGuard / stealthproxy**：内网对抗与隐蔽代理
 
 ## 联系
